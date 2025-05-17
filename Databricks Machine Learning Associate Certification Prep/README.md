@@ -167,3 +167,7 @@ The time frames are only estimates and may vary according to how the class is pr
 Links
 
 - https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/28770306/Databricks+Machine+Learning+Associate+Certification+Prep/
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/33193985/Feature+Engineering
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/29163856/Linear+Regression+Using+AutoML+-+Databricks+UI+Python+API
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/33095681/Exploratory+Data+Analysis
+- https://docs.databricks.com/aws/en/admin/workspace/quick-start
