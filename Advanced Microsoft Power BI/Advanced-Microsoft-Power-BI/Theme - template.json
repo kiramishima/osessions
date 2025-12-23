@@ -1,0 +1,19 @@
+{
+    "name": "Advanced Microsoft Power BI by Daniil Maslyuk",
+    "visualStyles": {
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "image": {
+                            "name": "Theme default",
+                            "scaling": "Fit",
+                            "url": "Insert encoded image starting with data: here"
+                        },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}
