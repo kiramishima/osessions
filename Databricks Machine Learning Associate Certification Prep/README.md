@@ -171,3 +171,16 @@ Links
 - https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/29163856/Linear+Regression+Using+AutoML+-+Databricks+UI+Python+API
 - https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/33095681/Exploratory+Data+Analysis
 - https://docs.databricks.com/aws/en/admin/workspace/quick-start
+- https://docs.databricks.com/aws/en/exploratory-data-analysis
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/28770306/Databricks+Machine+Learning+Associate+Certification+Prep#Day-3
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/33095681/Exploratory+Data+Analysis
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/29163856/Linear+Regression+Using+AutoML+-+Databricks+UI+Python+API
+- https://piethein.medium.com/integrating-azure-databricks-and-microsoft-fabric-0030d3cf5156
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/29065217/Databricks+Workspace+with+Azure+Cloud
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/28770306/Databricks+Machine+Learning+Associate+Certification+Prep
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/28770306/Databricks+Machine+Learning+Associate+Certification+Prep/
+- https://www.databricks.com/learn/certification/genai-engineer-associate
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/40271873/Pandas+API+on+Spark
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/39813121/Pandas+on+Databricks
+- https://38labs.atlassian.net/wiki/spaces/~712020c9681e0922854e8faabd2d72dc4e3702/pages/28770306/Databricks+Machine+Learning+Associate+Certification+Prep
+- 
